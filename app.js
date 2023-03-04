@@ -19,7 +19,7 @@ const app = express();
 
 
 app.use(bodyParser.urlencoded({ extended: true }))
-app.use(express.static(path.join(__dirname, '/public')))
+app.use( '/static', express.static(path.join(__dirname, '/Public')))
 app.use(flash())
 app.use(methodOverride('_method'))
 
