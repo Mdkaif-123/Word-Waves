@@ -1,5 +1,6 @@
 
-# Wordflow
+# Word-Waves
+
 ![Made-With-EJS](https://img.shields.io/badge/Made_with-EJS-informational?style=for-the-badge&logo=node)
 
 ![Made-With-Express](https://img.shields.io/badge/Made_with-Express-informational?style=for-the-badge&logo=node)
